@@ -1,6 +1,6 @@
 # CUDA vs WebAssembly 개념 비교 데모
 
-이 프로젝트는 CUDA의 host-device 모델과 WebAssembly의 host-guest 모델의 구조적 유사성을 시연합니다.
+CUDA의 개념을 보고 WASM과의 유사성이 있는 것 같다고 느껴서 직접 코드 작성하면서 이해하고자 생성한 레포입니다.
 
 ## 개념적 비교
 
